@@ -7,8 +7,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afroz-saifi&label=Profile%20views&color=0e75b6&style=flat" alt="afroz-saifi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=afroz-saifi" alt="afroz-saifi" /></a> </p>
-<a href="https://afroz-saifi.github.io/">Portfolio</a>
-- 👨‍💻 All of my projects are available at 
+
+- 👨‍💻 All of my projects are available at <a href="https://afroz-saifi.github.io/"> Portfolio </a>
 
 - 📫 How to reach me **afrozsaifi@gmail.com**
 
