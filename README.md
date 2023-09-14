@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=afroz-saifi" alt="afroz-saifi" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://afroz-saifi.github.io/](https://afroz-saifi.github.io/)
+- 👨‍💻 All of my projects are available at [https://afroz-saifi.github.io/]
 
 - 📫 How to reach me **afrozsaifi@gmail.com**
 
