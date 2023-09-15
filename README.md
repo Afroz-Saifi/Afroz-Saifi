@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **afrozsaifi@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1TU2lzemlh3yLqphJQEyR6EF_7sKSe8dg/view?usp=share_link](https://drive.google.com/file/d/1TU2lzemlh3yLqphJQEyR6EF_7sKSe8dg/view?usp=share_link)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1hzUEj8xi6xwTcPTHRWh3nEA3HZVjvJFx/view?usp=sharing"> Resume </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
